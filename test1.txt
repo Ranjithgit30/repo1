@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 14F2-6011
+
+ Directory of C:\Users\ranjith\Desktop\Myproject
+
+08/09/2022  03:17 PM    <DIR>          .
+08/09/2022  03:17 PM    <DIR>          ..
+08/09/2022  03:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,815,106,560 bytes free
